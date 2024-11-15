@@ -1,7 +1,7 @@
 <div class="container mt-5">
     <div class="card">
-        <div class="card-header bg-primary text-white">Datos del Usuario</div>
-        <div class="card-body">
+        <div class="card-header bg-primary text-dark">Datos del Usuario</div>
+        <div class="card-body text-dark">
             <p><strong>Nombre:</strong> <span id="usuario_nombre"></span></p>
             <p><strong>Apellido:</strong> <span id="usuario_apellido"></span></p>
             <p><strong>Usuario:</strong> <span id="usuario_usuario"></span></p>
